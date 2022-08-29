@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/gramscript/gramscript/issues"
   },
-  "homepage": "https://github.com/gramscript/gramscript#readme"
+  "homepage": "https://github.com/gramscript/gramscript#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "ava": "^4.3.3",
+    "eslint": "^8.23.0"
+  }
 }
