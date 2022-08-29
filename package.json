@@ -24,10 +24,16 @@
   },
   "homepage": "https://github.com/gramscript/gramscript#readme",
   "dependencies": {
-    "request": "^2.88.2"
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "stream": "^0.0.2",
+    "url": "^0.11.0"
   },
   "devDependencies": {
     "ava": "^4.3.3",
-    "eslint": "^8.23.0"
+    "eslint": "^8.23.0",
+    "fs": "^0.0.1-security"
   }
 }
