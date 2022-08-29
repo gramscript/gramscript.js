@@ -1,0 +1,26 @@
+{
+  "name": "gramscript",
+  "version": "1.0.0",
+  "description": "Powerfull Node js Telegram Bot API",
+  "main": "gramscript/main.js",
+  "scripts": {
+    "test": "npm test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramscript/gramscript.git"
+  },
+  "keywords": [
+    "gramscript",
+    "telegram",
+    "bot",
+    "api",
+    "telegrambot"
+  ],
+  "author": "kalanakt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gramscript/gramscript/issues"
+  },
+  "homepage": "https://github.com/gramscript/gramscript#readme"
+}
