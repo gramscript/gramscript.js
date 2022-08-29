@@ -13,7 +13,7 @@
 <br>
 
 ## Installation 
-For onstall gramscript use method from bellow methods
+
 ```consol
 npm install gramscript
 ```
