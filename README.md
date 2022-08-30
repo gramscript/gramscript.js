@@ -38,7 +38,7 @@ bot.start();
 
 ## Quick Examples
 
-### Forwad Same Message Text
+
 
 ```js
 const TeleBot = require('gramscript');
