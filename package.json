@@ -4,7 +4,7 @@
   "description": "Powerfull Node js Telegram Bot API",
   "main": "gramscript/main.js",
   "scripts": {
-    "test": "npm test/test.js"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",
