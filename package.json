@@ -1,6 +1,6 @@
 {
   "name": "gramscript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Powerfull Node js Telegram Bot API",
   "main": "gramscript/main.js",
   "scripts": {
