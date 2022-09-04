@@ -1,5 +1,3 @@
-const TeleBot = require('gramscript');
-
 function gramscript(){
 	console.log("gramscript is awsome !!!")
 }
